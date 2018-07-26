@@ -1,5 +1,4 @@
-# dog.rb
-
+# dog.rb 
 
 class Dog 
   
@@ -9,6 +8,5 @@ class Dog
   fido = Dog.new("fido")
   snoppy = Dog.new("snoopy")
   lassie = Dog.new("lassie")
-  
   
   
